@@ -1,0 +1,9 @@
+#physical connection
+#jdbcUrl=jdbc:mysql:///jdbcrevise
+#user=root
+#password=Dhanapal@98
+
+#logical connection
+jdbcUrl= jdbc:mysql:///jdbcrevise
+dataSource.user=root
+dataSource.password=Dhanapal@98
